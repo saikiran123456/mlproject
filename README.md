@@ -157,24 +157,35 @@ so this was the project GitHub setup that we have basically done!!
 I will continue forward and Explain further steps on: 
 Now, we are creating all the folder manually to understand better
 
-"components" folder: 
+Writing 4 files inside src folder
+init.pu=y
+exception.py, 
+logger.py, 
+utils.py 
+
+Create new folder: 
+"components" : 
 init.py fle inside it, 
 All the process will be present
 data_ingestion.py, 
 data_transformation.py, 
 model_trainer.py
 
-Creating "pipeline" folder
-There are 3 files inside pipeline: train_pipeline.py, predict_pipeline.py, init.py				
+Create new folder: 
+"pipeline" :
+There are 3 files inside pipeline: 
+train_pipeline.py, 
+predict_pipeline.py, 
+init.py				
 
-
-Writing:
-
-own Custom exception.py file and logger.py file
 	  
 Running the above 2 files and validating the output changes
 and finally commiting the changes to GitHub
 
 ```
+![image](https://user-images.githubusercontent.com/37768258/224270494-fc6bea93-5337-4f79-92ea-c71ad6781d06.png)
+
+![image](https://user-images.githubusercontent.com/37768258/224270571-6a71b231-cb36-454f-9c28-8e6ade97281a.png)
+
 Pipeline:
 	     
