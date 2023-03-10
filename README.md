@@ -52,7 +52,7 @@ STEP 6: you'll be able to see that I have actually synced it with my own git rep
       git branch -M Machine-learning 
 
 
-Before Doing the last Step command, Makesure your GitHub Username and EmailID is Linked in VSCode Editor
+Before Doing the last Step command, Makesure your GitHub Username and EmailID is Linked in VSCode Editor, Simply type below 2 Commands on VS CMD Terminal:
 git config --global user.name "xyz"				
 git config --global user.email xyz@example.com				
 
