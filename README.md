@@ -106,7 +106,7 @@ STEP 4: Open the "setup.py" file and Code:
 
 STEP 5: Create a New Folder "src"
 
-STEP 6: Create a file inside it "__init__.py":
+STEP 6: Create a file inside it __init__.py:
 
 ![image](https://user-images.githubusercontent.com/37768258/224261299-9aa721dd-676f-4b20-b690-72a4514fe172.png)
 
