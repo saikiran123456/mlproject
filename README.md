@@ -1,7 +1,6 @@
 ## Student Exam Performance End to End ML Project
 ```
-
-Steps:
+Steps: 
 Setup Project With GitHub
 1. Data Ingestion
 2. Data Transformation
@@ -16,7 +15,7 @@ Deployment - AWS
 
 STEP 1:	Setup a GitHub Repository  "mlproject"			
 
-STEP 2: Create a New Folder in your Drive and need to Place all the Project Resources overe thhere
+STEP 2: Create a New Folder in your Drive and need to Place all the Project Resources overe there
 
 STEP 3: Open VS Code Editor from Anaconda Prompt , prior give the Project Path::   use:  "code ."
 
@@ -50,7 +49,7 @@ the next step will be that I have to push this file  into my GitHub repository
 STEP 5: git remote add origin https://github.com/saikiran123456/mlproject.git
 
 STEP 6: you'll be able to see that I have actually synced it with my own git repository over here right wrt origin 
-      git remote -v 
+      git branch -M Machine-learning 
 
 
 Before Doing the last Step command, Makesure your GitHub Username and EmailID is Linked in VSCode Editor
@@ -88,16 +87,17 @@ so for this, in order to make sure that everything is updated on my Local Reposi
 
 STEP 1: git pull
  
-create a New File name it as: setup.py
+create a New File name it as: setup.py  //It is responsible in creating ML applications as a package
 
 STEP 2: setup.py
 
-STEP 3: requirements.txt	
+STEP 3: requirements.txt	//All the libraries will get installed from here
 
 Your Repository should look like this:
 
 ![image](https://user-images.githubusercontent.com/37768258/224260905-cd61b1af-221c-46f3-ad34-9f8f1d6ce7e3.png)
 
+Created source folder and build the packages!!
 
 STEP 4: Open the "setup.py" file and Code:
 ![image](https://user-images.githubusercontent.com/37768258/224261160-0f39a9df-f21c-47d5-9805-1a221b10b1d3.png)
