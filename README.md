@@ -158,12 +158,12 @@ I will continue forward and Explain further steps on:
 Now, we are creating all the folder manually to understand better
 
 Writing 4 files inside src folder
-init.pu=y
+init.py,
 exception.py, 
 logger.py, 
 utils.py 
 
-Create new folder: 
+Create New folder: 
 "components" : 
 init.py fle inside it, 
 All the process will be present
@@ -171,7 +171,7 @@ data_ingestion.py,
 data_transformation.py, 
 model_trainer.py
 
-Create new folder: 
+Create New folder: 
 "pipeline" :
 There are 3 files inside pipeline: 
 train_pipeline.py, 
@@ -181,9 +181,18 @@ init.py
 	  
 Running the above 2 files and validating the output changes
 and finally commiting the changes to GitHub
+git add .
+git commit -m "logging and exception"
+git push -u origin Machine-learning
+
+
 
 ```
+This is my Local Repository:
+
 ![image](https://user-images.githubusercontent.com/37768258/224270494-fc6bea93-5337-4f79-92ea-c71ad6781d06.png)
+
+I will just open my GitHub file and see whether my code has got updated or not:
 
 ![image](https://user-images.githubusercontent.com/37768258/224270571-6a71b231-cb36-454f-9c28-8e6ade97281a.png)
 
