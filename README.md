@@ -82,17 +82,18 @@ Create NEW File ".gitignore" inside GitHub:
 
     Back to VS Code Editor:
 
-so for this, in order to make sure that everything is updated on my Local Repository(Project Folder), so I'll just clear the VS Code CMD screen and I write "git pull", so all the updation will happen now here you can see I have this gitignore file also !!
+so for this, in order to make sure that everything is updated on my Local Repository(Project Folder), so I'll just clear VS Code CMD screen & write "git pull", so all the updation will happen now WE have this gitignore file also !!
 
 STEP 1: git pull
-  
  
 create a New File name it as: setup.py
+
 STEP 2: setup.py
 
 STEP 3: requirements.txt	
 
 Your Repository should look like this:
+
 ![image](https://user-images.githubusercontent.com/37768258/224260905-cd61b1af-221c-46f3-ad34-9f8f1d6ce7e3.png)
 
 
@@ -102,30 +103,33 @@ STEP 4: Open the "setup.py" file and Code:
 
 STEP 5: Create a New Folder "src"
 
-STEP 6: Create a file inside it			"__init__.py"
+STEP 6: Create a file inside it "__init__.py":
+
 ![image](https://user-images.githubusercontent.com/37768258/224261299-9aa721dd-676f-4b20-b690-72a4514fe172.png)
 
 
-Step 7: Add some Libraries in "requirements.txt" file
+Step 7: Add some Libraries in "requirements.txt" file:
+
 ![image](https://user-images.githubusercontent.com/37768258/224261434-f39b38ba-6360-4f8a-be1a-1b97b3f24ffa.png)
 
 
 
-Step 8: Code in "setup.py" file
-![image](https://user-images.githubusercontent.com/37768258/224261585-e106177a-b4d6-4e3b-85cb-deb3cdf34582.png)
-![image](https://user-images.githubusercontent.com/37768258/224261607-8e2c7953-ddc9-4fae-941d-8bf0ef3ab3ca.png)
+Step 8: Code in "setup.py" file:
+
 ![image](https://user-images.githubusercontent.com/37768258/224261680-fb8ba033-81f3-411f-9387-8ea9e8cce053.png)
 
 
 STEP 9:  Install the "requiremets.txt" file
-pip install -r requirements.txt		
+
+	pip install -r requirements.txt	
+	
 
 Your Local Repository should look like this:
 ![image](https://user-images.githubusercontent.com/37768258/224261990-0dfb7521-b35e-47ec-a5cd-dd74c290945c.png)
 
    
    
-      **COMMIT all the Changes to GitHub**
+      ## COMMIT all the Changes to GitHub
       
 STEP 1:   git add .
 
@@ -140,7 +144,22 @@ STEP 4: git push minus -u origin Machine-learning
   Relod the GutHub Repo
 ![image](https://user-images.githubusercontent.com/37768258/224262606-d51f6514-03f0-423d-b9aa-af2ce1d9b8d8.png)
 
+so this was the project GitHub setup that we have basically done!!
+
+## ---------------2: Setup Files----------------------
+
+I will continue forward and Explain further steps on: 
+
+Creating: "components" folder, init.py fle inside it, data_ingestion.py, data_transformation.py, model_trainer.py
+
+Creating "pipeline" folder
+There are 3 files inside pipeline: train_pipeline.py, predict_pipeline.py, init.py				
 
 
-so this was the basic project setup GitHub setup that we have basically done 
-the project structure and all I will be showing 
+Writing:
+Own Custom exception.py file
+	    logger.py file
+	  
+Running the above 2 files and validating the output changes
+and finally commiting the changes to GitHub
+	     
