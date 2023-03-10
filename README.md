@@ -66,7 +66,7 @@ OUTPUT:	and this is how quickly I will be able to see the files in GitHub
         
 ## --------------------------------------------------------------------        
         
-Create NEW File ".gitignore" inside GitHub:
+	## Create NEW File ".gitignore" inside GitHub:
 
 ![image](https://user-images.githubusercontent.com/37768258/224252446-2228bd91-b973-4f0d-b046-7a6f1b27427e.png)
 
@@ -80,7 +80,7 @@ Create NEW File ".gitignore" inside GitHub:
 ## --------------------------------------------------------------------
 
 
-    Back to VS Code Editor:
+    ## Back to VS Code Editor:
 
 so for this, in order to make sure that everything is updated on my Local Repository(Project Folder), so I'll just clear VS Code CMD screen & write "git pull", so all the updation will happen now WE have this gitignore file also !!
 
@@ -141,7 +141,8 @@ STEP 4: git push minus -u origin Machine-learning
 
 ## -----------output--------------------------------------------
 
-  Relod the GutHub Repo
+  Reload the GutHub Repository:
+  
 ![image](https://user-images.githubusercontent.com/37768258/224262606-d51f6514-03f0-423d-b9aa-af2ce1d9b8d8.png)
 
 so this was the project GitHub setup that we have basically done!!
@@ -157,8 +158,8 @@ There are 3 files inside pipeline: train_pipeline.py, predict_pipeline.py, init.
 
 
 Writing:
-Own Custom exception.py file
-	    logger.py file
+
+own Custom exception.py file and logger.py file
 	  
 Running the above 2 files and validating the output changes
 and finally commiting the changes to GitHub
