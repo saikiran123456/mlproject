@@ -1,5 +1,6 @@
-## End to End Machine Learning Project
-
+## Student Exam Performance End to End ML Project
+```
+Steps:
 Setup Project With GitHub
 1. Data Ingestion
 2. Data Transformation
@@ -150,8 +151,14 @@ so this was the project GitHub setup that we have basically done!!
 ## ---------------2: Setup Files----------------------
 
 I will continue forward and Explain further steps on: 
+Now, we are creating all the folder manually to understand better
 
-Creating: "components" folder, init.py fle inside it, data_ingestion.py, data_transformation.py, model_trainer.py
+"components" folder: 
+init.py fle inside it, 
+All the process will be present
+data_ingestion.py, 
+data_transformation.py, 
+model_trainer.py
 
 Creating "pipeline" folder
 There are 3 files inside pipeline: train_pipeline.py, predict_pipeline.py, init.py				
@@ -163,4 +170,7 @@ own Custom exception.py file and logger.py file
 	  
 Running the above 2 files and validating the output changes
 and finally commiting the changes to GitHub
+
+```
+Pipeline:
 	     
