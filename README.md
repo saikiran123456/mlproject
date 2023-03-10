@@ -1,5 +1,6 @@
 ## Student Exam Performance End to End ML Project
-'''
+```
+
 Steps:
 Setup Project With GitHub
 1. Data Ingestion
@@ -63,7 +64,7 @@ STEP 7: git push -u origin Machine-learning
 OUTPUT:	and this is how quickly I will be able to see the files in GitHub 
        readme file has got updated, this is how I have made sure that all my sync with respect to this particular code and          the GitHub repository is done
          
-'''
+```
         
 ## --------------------------------------------------------------------        
         
@@ -148,6 +149,7 @@ STEP 4: git push minus -u origin Machine-learning
 
 so this was the project GitHub setup that we have basically done!!
 
+```
 ## ---------------2: Setup Files----------------------
 
 I will continue forward and Explain further steps on: 
