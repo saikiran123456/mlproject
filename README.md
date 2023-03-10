@@ -96,8 +96,7 @@ Your Repository should look like this:
 ![image](https://user-images.githubusercontent.com/37768258/224260905-cd61b1af-221c-46f3-ad34-9f8f1d6ce7e3.png)
 
 
-STEP 4: Open the "setup.py" file
-and Code:
+STEP 4: Open the "setup.py" file and Code:
 ![image](https://user-images.githubusercontent.com/37768258/224261160-0f39a9df-f21c-47d5-9805-1a221b10b1d3.png)
 						
 
@@ -112,7 +111,7 @@ Step 7: Add some Libraries in "requirements.txt" file
 
 
 
-Step 8: Add some Code in "setup.py" file
+Step 8: Code in "setup.py" file
 ![image](https://user-images.githubusercontent.com/37768258/224261585-e106177a-b4d6-4e3b-85cb-deb3cdf34582.png)
 ![image](https://user-images.githubusercontent.com/37768258/224261607-8e2c7953-ddc9-4fae-941d-8bf0ef3ab3ca.png)
 ![image](https://user-images.githubusercontent.com/37768258/224261680-fb8ba033-81f3-411f-9387-8ea9e8cce053.png)
