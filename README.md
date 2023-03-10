@@ -155,8 +155,7 @@ so this was the project GitHub setup that we have basically done!!
 I will continue forward and Explain further steps on: 
 Now, we are creating all the folder manually to understand better
 
-Writing 4 files inside src folder
-init.py,
+Writing 3 files inside src folder
 exception.py, 
 logger.py, 
 utils.py 
