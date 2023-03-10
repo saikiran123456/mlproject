@@ -60,8 +60,10 @@ STEP 7: git push -u origin Machine-learning
         // that basically means from the origin to the Machine-LEarning the commit will basically happen
          // NOTE: "Machine-learning" is my main branch name, yours might differ
          
-OUTPUT:	and this is how quickly I will be able to see the files in GitHub 
-       readme file has got updated, this is how I have made sure that all my sync with respect to this particular code and          the GitHub repository is done
+OUTPUT:	 
+
+We will be able to see the files in GitHub 
+ i.e readme file has got updated, this is how I have made sure that all my sync with respect to this particular code and the GitHub repository is done!!
          
 ```
         
