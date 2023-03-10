@@ -10,6 +10,7 @@ Setup Project With GitHub
 CI/CD Pipelines - GitHub Actions
 Deployment - AWS
 
+## --------------------------------------------------------------------
 
 STEP 1:	Setup a GitHub Repository  "mlproject"			
 
@@ -22,7 +23,8 @@ STEP 4: Open the Terminal in VS CODE editor  [Short cut key: CTRL + SHIFT + P]
 STEP 5: CREATE New Environment Inside the Same Project Folder  name as "venv"		in VS Code CMD Terminal					
         conda create -p venv python==3.8 -y
           
-STEP 6: And Activate the Terminal:    conda activate venv/				
+STEP 6: Activate the Terminal:    
+	conda activate venv/
 
 the next thing what we are going to do is that we are going to clone this entire repository and we need to sync this with the GitHub so that we'll be able to commit all our code!!
 
@@ -62,8 +64,7 @@ OUTPUT:	and this is how quickly I will be able to see the files in GitHub
          
         
         
-        ----------------------------------------------------------------------------
-        
+## --------------------------------------------------------------------        
         
 Create NEW File ".gitignore" inside GitHub:
 
@@ -76,10 +77,14 @@ Create NEW File ".gitignore" inside GitHub:
 ![image](https://user-images.githubusercontent.com/37768258/224252556-104d8211-8f07-4350-be55-953967e1d195.png)
 
 
+## --------------------------------------------------------------------
+
+
     Back to VS Code Editor:
 
 so for this, in order to make sure that everything is updated on my Local Repository(Project Folder), so I'll just clear the VS Code CMD screen and I write "git pull", so all the updation will happen now here you can see I have this gitignore file also !!
- STEP 1: git pull
+
+STEP 1: git pull
   
  
 create a New File name it as: setup.py
@@ -131,6 +136,7 @@ STEP 3:  git commit -m "setup"
 
 STEP 4: git push minus -u origin Machine-learning 
 
+## -----------output--------------------------------------------
 
   Relod the GutHub Repo
 ![image](https://user-images.githubusercontent.com/37768258/224262606-d51f6514-03f0-423d-b9aa-af2ce1d9b8d8.png)
@@ -139,8 +145,3 @@ STEP 4: git push minus -u origin Machine-learning
 
 so this was the basic project setup GitHub setup that we have basically done 
 the project structure and all I will be showing 
-
-
-
-
-
