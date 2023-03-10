@@ -132,8 +132,7 @@ Your Local Repository should look like this:
 ![image](https://user-images.githubusercontent.com/37768258/224261990-0dfb7521-b35e-47ec-a5cd-dd74c290945c.png)
 
    
-   
-      ## COMMIT all the Changes to GitHub
+## COMMIT all the Changes to GitHub
       
 STEP 1:   git add .
 
@@ -143,7 +142,7 @@ STEP 3:  git commit -m "setup"
 
 STEP 4: git push minus -u origin Machine-learning 
 
-## -----------output--------------------------------------------
+----------output--------------------------------------------
 
   Reload the GutHub Repository:
   
