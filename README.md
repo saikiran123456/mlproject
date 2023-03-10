@@ -151,9 +151,8 @@ STEP 4: git push minus -u origin Machine-learning
 
 so this was the project GitHub setup that we have basically done!!
 
-```
 ## 3.Setup files and folders
-
+```
 I will continue forward and Explain further steps on: 
 Now, we are creating all the folder manually to understand better
 
